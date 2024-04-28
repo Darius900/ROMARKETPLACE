@@ -1,0 +1,74 @@
+
+.register-container {
+    width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 150px;
+    background-image: url('../assets/images/regst.png'); 
+    background-size: cover; 
+    background-position: center;
+    margin-left: 500px;
+}
+
+.register-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 400px;
+    
+}
+
+.input-group input {
+    width: 30%; 
+    padding: 10px; 
+    background-color: rgb(202, 147, 105); 
+    border: 2px solid #030303; 
+    border-radius: 40px; 
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1); 
+    margin-bottom: 1px;
+    margin-left: 380px;
+    margin-top: 15px;
+    font-family: 'YourCustomFont', sans-serif;
+    font-size: 16px;
+    color: #333; 
+}
+
+
+
+
+.buttonreg{
+    display: block;
+    width: 25%;
+    padding: 10px;
+    background-color: #000203;
+    color: white;
+    border: none;
+    border-radius: 80px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 405px;
+}
+
+.buttonreg:hover {
+    background-color: rgb(98, 45, 11);
+}
+
+.labelReg{
+    border-radius: 40px;
+    margin-left: 450px;
+    background-color: rgb(255,253,243);; 
+    border: 2px solid #ccc; 
+    width: 100px;
+    height: 25px;
+    position: relative;
+    top: -25px;
+}
