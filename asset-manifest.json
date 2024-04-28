@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ROMARKETPLACE/static/css/main.500bd3d2.css",
+    "main.js": "/ROMARKETPLACE/static/js/main.49b4bcbe.js",
+    "static/js/787.6f0633ff.chunk.js": "/ROMARKETPLACE/static/js/787.6f0633ff.chunk.js",
+    "static/media/aaa.png": "/ROMARKETPLACE/static/media/aaa.5c0304936cb33261c68e.png",
+    "static/media/bbb.png": "/ROMARKETPLACE/static/media/bbb.bfd38e0ae404ca9d8c55.png",
+    "static/media/divider.png": "/ROMARKETPLACE/static/media/divider.74684a7fc4148a010489.png",
+    "static/media/regst.png": "/ROMARKETPLACE/static/media/regst.a9dde96d4ac0daf1550c.png",
+    "static/media/886.png": "/ROMARKETPLACE/static/media/886.78e4d03529f488c62d98.png",
+    "index.html": "/ROMARKETPLACE/index.html",
+    "main.500bd3d2.css.map": "/ROMARKETPLACE/static/css/main.500bd3d2.css.map",
+    "main.49b4bcbe.js.map": "/ROMARKETPLACE/static/js/main.49b4bcbe.js.map",
+    "787.6f0633ff.chunk.js.map": "/ROMARKETPLACE/static/js/787.6f0633ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500bd3d2.css",
+    "static/js/main.49b4bcbe.js"
+  ]
+}
