@@ -20,7 +20,7 @@ import Checkout from './views/Checkout';
 import OrderSuccess from './views/OrderSuccess';
 
 
-const basename = process.env.PUBLIC_URL ? `${process.env.PUBLIC_URL}/` : '/';
+const basename = "/ROMARKETPLACE";
 
 function App() {
     const [user, setUser] = useState(JSON.parse(localStorage.getItem('user')));
